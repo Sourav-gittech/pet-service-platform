@@ -1,0 +1,19 @@
+body {
+  font-family: 'Archivo', sans-serif;
+}
+
+.navigation-wrap.scroll-on {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    color: #544E5F;
+    box-shadow: 0 .125rem 1.75rem 0 rgb(0, 0, 0, .09);
+    -webkit-transition: all .15s ease-in-out 0s;
+    transition: all .15s ease-in-out 0s;
+}
+
+.navigation-wrap.scroll-on .shop-bag{
+    color: #544E5F;
+}
