@@ -2,7 +2,7 @@ import React from 'react'
 
 const VeterinarianDashboard = () => {
   return (
-    <div></div>
+    <div>VeterinarianDashboard</div>
   )
 }
 

@@ -18,7 +18,7 @@ import VeterinarianDashboard from '../pages/auth/VeterinarianDashboard'
 const Layout = ({ children }) => {
   const location = useLocation();
 
-  const hideLayoutRoutes = ['/user-register-login'];
+  const hideLayoutRoutes = ['/user-register-login','/admin-dashboard'];
 
   const hideLayout = hideLayoutRoutes.includes(location.pathname);
 

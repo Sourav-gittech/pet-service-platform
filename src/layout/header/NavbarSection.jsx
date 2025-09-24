@@ -85,7 +85,7 @@ const NavbarSection = () => {
             ))}
           </Box>
           <Box sx={{ flexGrow: 0 }}>
-            <Link component='button' to='/user-register-login' className='bg-[#d6b4f9] hover:bg-[#9631e9] text-black hover:text-white py-2 px-3 rounded-2xl'>
+            <Link component='button' to='/user-register-login' className='bg-[#d6b4f9] hover:bg-[#9631e9] text-black border-[1px] border-black hover:text-white py-2 px-3 rounded-2xl'>
               Join Paws
             </Link>
             <Link component='button' to='/cart'>

@@ -3,7 +3,7 @@ import './../../css/page_not_found.css'
 
 const Error404 = () => {
   return (
-    <div className='h-[680px] flex items-center justify-center'>
+    <div className='bg-gradient-to-b from-[#d6b4f9] to-[#fff] h-screen flex items-center justify-center'>
       <div className="main_wrapper">
         <div className="main">
      
